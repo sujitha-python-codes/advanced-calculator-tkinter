@@ -20,5 +20,9 @@ An advanced calculator built using Python Tkinter.
 - Tkinter
 - Math Module
 
+## Screenshot
+
+![Calculator](Screenshot_cal.png)
+
 ## Author
 Sujatha Maripi
