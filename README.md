@@ -1,2 +1,24 @@
-# advanced-calculator-tkinter
-An advanced calculator built using Python Tkinter with scientific features and error handling.
+# Advanced Calculator using Python Tkinter
+
+An advanced calculator built using Python Tkinter.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage (%)
+- Square (x²)
+- Square Root (√x)
+- Reciprocal (1/x)
+- Sign Change (+/-)
+- Backspace
+- Error Handling
+
+## Technologies Used
+- Python
+- Tkinter
+- Math Module
+
+## Author
+Sujatha Maripi
